@@ -1,0 +1,6 @@
+projectKey=akhil
+serverUrl=http://sonar.softstreaktech.in
+serverVersion=8.2.0.32929
+dashboardUrl=http://sonar.softstreaktech.in/dashboard?id=akhil
+ceTaskId=AYRV589gihFW7QuKtcRz
+ceTaskUrl=http://sonar.softstreaktech.in/api/ce/task?id=AYRV589gihFW7QuKtcRz
